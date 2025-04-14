@@ -1,1 +1,2 @@
-# Python---Olympics-Datset
+# Python-Olympics-Datset
+The dataset being analysed here is the Olympics dataset, fropm the year 1992 - 1998, which has 7000 entries and 15 columns that includes Name, sport type, age, sex of participants, medals, countries that participated etc. The dataset was cleaned using python, duplicates were removed and null values were spotted but was left untouched as it was likely to negatively affect the analysis if taken out. Visualisations were carried out to provide insights such as the trend over time in the number of participants, the country with the highest medal, the distribution of the heights of the participants etc.
